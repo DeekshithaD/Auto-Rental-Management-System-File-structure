@@ -1,0 +1,16 @@
+Bajaj Compoet 4s
+
+		Varients in fuel-LPG,CNG,Petrol
+		Seating- 3- Passengers + 1- Driver 
+		Milage:
+			LPG-50 Kmps
+			Petrol- 27 Kmps
+			CNG- 30 Kmps
+
+		Age   :  10 years, 5 months, 29 days	
+		Certificate of Registration :  21-Oct-2024
+		valid till 
+			Vehicle Permit valid till      :  21-Oct-2024
+			Insurance valid till             :  21-Oct-2021
+			Emission test valid till        :  06-Aug-2020
+		Estimated Rent                :  Rs 600 per day

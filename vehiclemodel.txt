@@ -1,0 +1,43 @@
+	1)Bajaj Compoet 4s
+		Varients in fuel-LPG,CNG,Petrol
+		Seating- 3- Passengers + 1- Driver 
+		Milage:
+			LPG-50 Kmps
+			Petrol- 27 Kmps
+			CNG- 30 Kmps
+
+
+	2) Bajaj RE Maxima auto
+		Varients in fuel- Diesel
+		Seating- 4- Passengers + 1 Driver
+		Milage- 33 Kmps
+
+
+	3)Piaggio Ape XTRA DLX
+		Varients in fuel-CNG, Petorl, Diesel
+		Seating- 4- Passengers + 1 Driver
+		Milage:
+		CNG- 30 Kmps
+		Petrol- 25 Kmps
+		Diesel- 28.5 Kmps
+
+	4)Mahindra Alpa Champ
+		Fuel Varient- Diesel
+		Seating - 4- Passengers + 1 Driver 
+		Milage- 26 Kmps
+
+	5) TVS King 4S
+		fuel Varient- LPG,Petrol,Diesel
+		Seating- 3 passengers + 1 Driver
+		Milage:
+			LPG- 55 Kmps
+			Petrol- 27 Kmps
+			Diesel- 40 Kmps
+
+	6)Alal Gemini
+		Fuel Varient- CNG,Petrol,Diesel
+		Seating- 4- Passengers + 1 Driver
+		Milage:
+			LNG- 35 Kmps
+			Petorl- 24 Kmps
+			Diesel- 27 Kmps

@@ -1,0 +1,17 @@
+	
+
+	 TVS King 4S
+
+		fuel Varient- LPG,Petrol,Diesel
+		Seating- 3 passengers + 1 Driver
+		Milage:
+			LPG- 55 Kmps
+			Petrol- 27 Kmps
+			Diesel- 40 Kmps
+		Age   :  10 years, 5 months, 29 days	
+		Certificate of Registration :  21-Oct-2024
+		valid till 
+			Vehicle Permit valid till      :  21-Oct-2024
+			Insurance valid till             :  21-Oct-2021
+			Emission test valid till        :  06-Aug-2020
+		Estimated Rent:  Rs 600 per day
